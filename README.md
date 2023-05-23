@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/Vonleo/Vonleo/assets/34787629/f5386a65-e3ec-46df-ba6b-bab1e3e8ec0d" width="960" height="360" />
 
-<h2 align="center">Hello there! 👋 I'm Yvonne</h2>
+<h2>Hello there! 👋 I'm Yvonne</h2>
 
 <p>I graduated Class of 2022 with a Bachelor of Science Degree in Information Technology.</p>
 
