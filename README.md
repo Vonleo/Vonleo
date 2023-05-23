@@ -57,7 +57,7 @@
 <h4>I am interested in...🤓</h4>
 Art | History | Science | Technology| Philosophy | Psychology | Self-Improvement
 
-<h4>When I'm not working, I enjoy...😃</h4>
+<h4>When I'm not working, I enjoy...😄</h4>
 <p>~Reading.</p>
 <p>~Trying out new recipes.</p>
 <p>~Listening to music.</p>
