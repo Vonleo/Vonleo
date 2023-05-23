@@ -67,7 +67,7 @@ Art | History | Science | Technology| Philosophy | Psychology | Self-Improvement
 
 <h4>Contact me at...☎</h4>
 
-mailto:yvonnew27@outlook.com
+ yvonnew27@outlook.com
 
 
 <!-- FOR INDENTED CONTAINER
