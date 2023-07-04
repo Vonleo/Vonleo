@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Vonleo/Vonleo/assets/34787629/f5386a65-e3ec-46df-ba6b-bab1e3e8ec0d" width="960" height="360" />
+<img align="center" src="https://github.com/Vonleo/Vonleo/assets/34787629/f5386a65-e3ec-46df-ba6b-bab1e3e8ec0d" width="600" height="315" />
 
 <h2>Hello there! 👋 I'm Yvonne</h2>
 
