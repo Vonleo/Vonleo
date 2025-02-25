@@ -30,7 +30,7 @@
 
 #### Frameworks:
 
-<p>Angular JS | ASP.NET Core | Bootstrap | jQuery | Laravel</p>
+<p>Angular JS | ASP.NET Core | Bootstrap | jQuery | Laravel | Next.js </p>
 
 <img width="7%" src=https://github.com/Vonleo/Vonleo/assets/34787629/e57b76f0-320b-4cef-90ac-abec6fee437d/>
 
