@@ -42,7 +42,8 @@
 
 <img width="7%" src=https://github.com/Vonleo/Vonleo/assets/34787629/9b0db650-e493-48ca-83d0-dde896ec235b/>
 
-![Nextjs-logo](https://github.com/user-attachments/assets/1bafab97-1817-4798-9eab-30971d4bd371)
+<img width="7%" src="![Nextjs-logo](https://github.com/user-attachments/assets/c6bcf257-fca1-42d8-b1d6-78450eafeeea)
+"/>
     
  #### Database Management Systems and Engines:
 
